@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchuncrypt",
+        "uuid": 16509984,
+        "checksum": "k8dav"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
